@@ -1,3 +1,7 @@
+body {
+    font-family: 'Muli', sans-serif;
+}
+
 .header {
     height:620px;
     background-image:url("../img/header-background.jpg");
@@ -17,10 +21,43 @@
     margin-left: 25px;
 
 }
-.Container {
+.container {
     margin-right: 40px;
+    margin-left: 100px;
 }
 .header-brand {
     color: whitesmoke;
-    
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 150%;
+    display: block;
+}
+.header-brand-wrapper {
+    margin-top: 50px;
+    float:left;
+}
+
+.slogan {
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 160px;
+    text-shadow: 2px 2px 3px black;
+}
+.slogan-oben {
+    font-size: 150%;
+    font-weight: lighter;
+}
+.slogan-unten {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.slogan-button {
+    color: whitesmoke;
+    margin-top: 50px;
+    text-shadow: 2px 2px 3px black;
+}
+.slogan-button:hover {
+    color: whitesmoke;
+    margin-top: 50px;
 }
