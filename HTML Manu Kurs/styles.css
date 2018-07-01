@@ -1,0 +1,85 @@
+h1 {color: rgb(16, 92, 143);
+    margin: 0px;
+    
+}
+h2 {color: rgb(50, 179, 218);
+    
+}
+
+
+p {color:rgb(18, 10, 122);
+    line-height: 150%;
+}
+body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        Line-height: 140%;
+        background-color: rgb(189, 100, 134)
+    
+    }
+.container {
+    width: 600px;
+    /* margin-top: 50px;
+    margin-left: auto;
+    margin-bottom: 50px;
+    margin-right: auto; */
+    margin: 50px auto;
+    padding: 30px;
+    border: 2px solid rgb(150,150,150);
+    background-color: rgb(210,210,210);
+}
+
+.breite-1 {
+    width: 8.3333333%;
+    float: left;
+}
+.breite-2 {
+    width: 16.6666666%;
+    float: left;
+}
+.breite-3 {
+    width: 25%;
+    float: left;
+}
+.breite-4 {
+    width: 33.3333333%;
+    float: left;
+}
+.breite-5 {
+    width: 41.6666666%;
+    float: left;
+}
+.breite-6 {
+    width: 50%;
+    float: left;
+}
+.breite-7 {
+    width: 58.3333333%;
+    float: left;
+}
+.breite-8 {
+    width: 66.6666666%;
+    float: left;
+}
+
+.breite-9 {
+    width: 75%;
+    float: left;
+}
+.breite-10 {
+    width: 83.3333333%;
+    float: left;
+}
+.breite-11 {
+    width: 91.66666666%;
+    float: left;
+}
+.breite-12 {
+    width: 100%;
+    float: left;
+}
+
+.navigation {
+    float: right;
+}
+.absatz strong {
+    color: rgb(255,0,0)
+}
